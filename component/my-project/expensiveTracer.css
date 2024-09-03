@@ -1,0 +1,33 @@
+.trakerBox{
+
+min-width: 340px;
+margin: auto;
+border: 1px solid red;
+border-radius: 15px;
+
+}
+
+.incomeBox{
+border-right: 1px solid red ;
+}
+
+
+.scrollable-list {
+    max-height: 130px; /* Adjust the height based on your design */
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.list-group-item {
+    background-color: #f8f9fa; /* Optional: Add a background color to list items */
+    /* border: none; Optional: Remove the border for a cleaner look */
+}
+.mybtn{
+    border: none;
+    background-color: transparent;
+    color: red;
+}
+
+  
+
+ 
